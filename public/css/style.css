@@ -1,0 +1,773 @@
+
+.page-1-body{
+    background-color: black;
+}
+
+
+
+/* sec-1 start */
+
+.Section-one img {
+    height: 250px;
+    width: 300px;
+    padding: 0px;
+}
+
+.Section-one .nav-link:hover{
+    font-size: 20px;
+    color: blueviolet !important;
+    font-weight: 600;
+    padding: 10px !important;
+    margin: 20px;
+   
+}
+
+.Section-one .nav-link{
+   font-size: 20px;
+    color: rgb(80, 255, 240) !important;
+  text-transform: capitalize;
+    /* border: 2px solid rgb(43, 220, 226); */
+    margin: 15px;
+    
+     
+}
+.navbar-toggler-icon{
+    color: blueviolet;
+    background-color: white;
+}
+
+.sldrdesign img{
+    width: 90%;
+    height: 400px;
+    margin-left: 20px;
+}
+
+
+
+/* sec-1 end */
+
+.topmdl h1{
+    font-size: 100px;
+    color: white !important;
+    font-family: LEMONMILK-Medium;
+   
+
+}
+
+
+@media  (max-width: 576px) {
+    .topmdl h1 {
+        font-size: 30px;
+    }
+  }
+
+/* sec-2 start */
+
+
+
+.section-2 img{
+    width: 100%;
+    height: 800px;
+}
+
+.section-2 h5{
+    font-size: 100px;
+    color: gold;
+    font-weight: 900;
+}
+
+.section-2 p{
+    font-size: 30px;
+    color: rgb(229, 255, 0);
+    font-weight: 900;
+}
+
+
+
+
+/* sec-2 end */
+
+/* sec-3 start */
+
+.sec-3 {
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+
+.sec-3 h2{
+    
+    font-size: 80px;
+    color: goldenrod;
+    text-transform: uppercase;
+    padding: 20px;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .sec-3 h2{
+        font-size: 50px;
+        
+    }
+  }
+
+
+
+.sec-3 h1{
+    
+    font-size: 38px;
+    color: lightgreen !important;
+    text-transform: uppercase;
+    padding: 20px;
+    box-shadow:  2px 2px 2px 2px ghostwhite;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .sec-3 h1 {
+        font-size: 20px;
+        
+    }
+  }
+
+
+.sec-3 p{
+    
+    font-size: 15px;
+  
+    text-transform: uppercase;
+    padding: 10px;
+    /* box-shadow:  2px 2px 2px 2px ghostwhite; */
+    margin-top: 20px;
+    font-family: LEMONMILK-Medium;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .sec-3 p {
+        font-size: 12px;
+        
+        
+    }
+  }
+
+
+
+
+.sec-3-dgn{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 20px;
+    color: gold !important;}
+
+
+ .sec-3-dgn:hover{
+ 
+    box-shadow: 5px 5px 5px 5px rgb(241, 241, 237);
+background-color: rgba(255, 235, 205, 0.178);
+    height: 380px;
+    color: white !important;
+    
+
+
+}
+
+.sec-3-dgn .fa-plane-departure{
+    font-size: 70px;
+    padding: 20px;
+}
+
+
+.sec-3-dgn .fa-car-side{
+    font-size: 70px;
+    padding: 20px;
+}
+
+
+
+
+
+.service-box{
+    margin-top: 50px;
+}
+
+.service-box img{
+    height: 100px;
+    margin-top: 20px;
+}
+
+#hrlylogo{
+    background-color: white;
+    padding: 10px;
+}
+
+/* sec-3 end */
+
+
+
+
+/* sec-4 start */
+
+
+.sec-4-dgn img{
+    width: 100%;
+    height: 780px;
+
+}
+
+.sec-4-dgn h1{
+  font-size: 50px;
+  color: white;
+  font-weight: 900;
+  font-family: LEMONMILK-Medium;
+  padding: 20px;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .sec-4-dgn h1{
+        font-size: 30px;
+        
+        
+    }
+  }
+
+
+
+.sec-4-dgn h2{
+    font-size: 30px;
+    color: white;
+    font-weight: 900;
+    font-family: LEMONMILK-Medium;
+    padding: 20px;
+      
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .sec-4-dgn h2{
+        font-size: 20px;
+        
+        
+    }
+  }
+
+
+
+
+.sec-4{
+    padding: 20px;
+}
+
+.sec-4-dgn p{
+    font-size: 15px;
+    color: white;
+    font-weight: 300;
+    font-family: LEMONMILK-Medium;
+    padding: 20px;
+      
+  }
+
+  @media only screen and (max-width: 600px) {
+    .sec-4-dgn p{
+        font-size: 12px;
+        
+        
+    }
+  }
+
+
+  
+/* sec-4 end */
+
+/* sec-5 start */
+
+.sec-5{
+    padding: 20px;
+    background-color: rgba(42, 42, 16, 0.76);
+}
+
+
+.sec-5 a{
+  text-decoration: none;
+  color: white !important;
+    }
+
+.sec-5 h1{
+    font-size: 20px;
+    color: white !important;
+    text-align: center;
+    
+    }
+    
+
+.sec-5 h2{
+padding-top: 100px;
+font-size: 30px;
+color: gold !important;
+text-align: center;
+}
+
+.sec-5 h3{
+    padding: 10px;
+    font-size: 20px;
+    color: white !important;
+    text-align: center;
+    
+    }
+.sec-5 h3 a:hover{
+    
+        color: gold !important;
+    }
+
+    .sec-5 h3 span{
+       
+        font-size: 22px;
+        color: rgb(221, 11, 11) !important;
+        text-align: center;
+        
+        }
+
+
+.sec-5-dgn img{
+    padding: 0px;
+    margin: 0px;
+    height: 300px;
+    width: 100%;
+}
+
+.sec-5 ul li{
+    padding: 10px;
+    font-size: 20px;
+    color: white !important;
+    text-align: center;
+    list-style: none;
+    
+    }
+
+
+.fa-whatsapp{
+    font-size: 40px;
+    
+    color: white;
+    text-align: center;
+}
+
+.fa-facebook{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+/* sec-5 end */
+
+/* about page start */
+
+.about-page-design{
+    padding: 50px;
+}
+
+.about-page-design img{
+    width: 100%;
+    height: 400px;
+}
+
+
+
+/* about page end */
+
+
+
+
+
+/* gallery start */
+
+
+.animation-design{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+    }
+
+
+
+
+    .content-dgn-6{
+        padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+    background-color: rgba(7, 58, 54, 0.801);
+    border-radius: 10px;
+    }
+
+    .content-dgn-6 h1{
+        font-size: 40px;
+    color: white;
+    font-family: Oswald-Bold;
+ 
+    }
+
+    @media only screen and (max-width: 600px) {
+        .content-dgn-6 h1 {
+            font-size: 20px;
+            padding: 10px;
+        }
+      }
+    
+    
+
+.content-design-6.btn{
+    padding-bottom: 50px;
+}
+
+.content-dgn-6 .btn a{
+    text-decoration: none;
+    color: green ;
+    width: 200px;
+    font-size: 30px;
+    border: 3px solid green;
+    background-color: white;
+    border-radius: 10px;
+    font-family: Oswald-SemiBold;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+     text-transform: uppercase;
+    
+}
+
+.content-dgn-6 .btn a:hover{
+    color: white;
+    background-color: green;
+}
+
+
+
+.content-dgn-6 .fa-facebook{font-size: 40px; color: green; margin: 20px 20px; }
+
+.content-dgn-6 .fa-facebook:hover{color: white;}
+
+.content-dgn-6 .fa-twitter{font-size: 40px; color: green; margin: 20px 20px;}
+
+.content-dgn-6 .fa-twitter:hover{color: white;}
+
+
+
+
+
+
+.animation-design img{ height: 150px; 
+    width: 500px;
+    height: 300px;
+border-radius: 20px;
+margin-top: 100px;
+box-shadow: 3px 3px 3px 3px rgb(226, 127, 127);
+
+}
+
+@media only screen and (max-width: 600px) {
+    .animation-design img {
+        width: 200px;
+        height: 200px;
+    }
+  }
+
+
+
+.animation-design h2{
+    font-size: 30px;
+    color: green;
+    font-family: Oswald-SemiBold;
+
+}
+
+.animation-design p{
+    font-size: 20px;
+    color: black;
+    font-family: Oswald-Medium;
+}
+
+
+
+
+.animation-design .btn-2 a{
+    text-decoration: none;
+    color: green ;
+    width: 200px;
+    font-size: 10px;
+    border: 3px solid green;
+    background-color: white;
+    border-radius: 10px;
+    font-family: Oswald-SemiBold;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    transition: all 0.5s linear;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    
+    
+}
+
+.animation-design .btn-2 a:hover{
+    color: white;
+    background-color: green;
+}
+
+.gallery-page{
+    background-color: black;
+} 
+
+
+
+
+
+
+.bigbox{display: flex; justify-content: space-around; }
+
+
+.box1{height: 330px; width: 330px;  border-radius: 10px;}
+
+.box2{height: 330px; width: 330px;  border-radius: 10px;}
+
+
+
+    .bigbox2{display: flex; justify-content: space-around; }
+
+
+    .box3{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box4{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+    .bigbox3{display: flex; justify-content: space-around; }
+
+
+    .box5{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box6{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+
+    .bigbox4{display: flex; justify-content: space-around; }
+
+
+    .box7{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box8{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+    .bigbox5{display: flex; justify-content: space-around; }
+
+
+    .box9{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box10{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+
+    .bigbox6{display: flex; justify-content: space-around; }
+
+
+    .box11{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box12{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+    .bigbox7{display: flex; justify-content: space-around; }
+
+
+    .box13{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box14{height: 330px; width: 330px;  border-radius: 10px;}
+
+    
+    .bigbox8{display: flex; justify-content: space-around;  }
+
+
+    .box15{height: 330px; width: 330px;  border-radius: 10px;}
+    
+    .box16{height: 330px; width: 330px;  border-radius: 10px;}
+    
+
+/* gallery end */
+
+
+/* contact pagen start */
+
+.contact{
+    padding: 100px;
+    color: white !important;
+}
+
+
+.contact h1{
+    font-size: 50px;
+    font-weight: 600;
+    padding: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact h1 {
+        font-size: 25px;
+        padding: 10px;
+    }
+  }
+
+  .contact h3{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+
+
+.contact label{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+
+.contact input{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 100%;
+   padding: 5px;
+}
+
+.contact textarea{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+ }
+ 
+
+ .contact button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ 
+
+ .contact button:hover{
+   
+    background-color: white;
+    color: black;
+    
+ }
+ 
+
+/* contact page end */
+
+
+/* driver service start */
+
+.driver-service{
+    padding: 100px;
+   
+}
+
+
+
+.driver-service h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: LEMONMILK-Medium;
+    font-weight: 900;
+    padding: 50px;
+    color: white;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .driver-service h1 {
+        font-size: 40px;
+        padding: 10px;
+    }
+  }
+
+
+.driver-service h2{
+    font-size: 30px;
+    text-align: center;
+    font-family: LEMONMILK-Medium;
+    font-weight: 900;
+    padding: 20px;
+    color: rgb(191, 250, 53) !important;
+    border: 2px solid gold;
+    margin-bottom: 50px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .driver-service h2 {
+        font-size: 20px;
+        padding: 10px;
+    }
+  }
+
+
+
+
+.driver-service h3{
+    font-size: 20px;
+    text-align: center;
+    font-family: LEMONMILK-Medium;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(250, 247, 234) !important;
+   
+}
+
+@media only screen and (max-width: 600px) {
+    .driver-service h3 {
+        font-size: 15px;
+        padding: 20px 10px;
+    }
+  }
+
+
+
+
+
+/* driver service end */
+
+
+/* new1 start */
+
+.new-1{
+    padding: 100px;
+    background-color: blueviolet;
+    box-shadow: 10px 10px 10px 10px rgb(160, 8, 8);
+}
+
+.new-1 h1{
+    padding: 20px;
+    font-size: 50px;
+    font-weight: 600;
+    box-shadow: 5px 5px 5px 5px rgba(31, 160, 8, 0.294);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.new-1 p{
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow: 5px 5px 5px 5px rgba(8, 36, 160, 0.294);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* new1 ned */
